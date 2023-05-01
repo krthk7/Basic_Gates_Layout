@@ -11,11 +11,11 @@ In this Repository I've posted the layout of basic gates<br>
 5)OR<br>
 6)XOR<br>**
 ***
-![Basic_Gates_Layout](./images/im2)<br>
+![Basic_Gates_Layout](./images/im2.png)<br>
 <br>
-![Basic_Gates_Layout](./images/im3)<br>
+![Basic_Gates_Layout](./images/im3.png)<br>
 <br>
-![Basic_Gates_Layout](./images/im1)<br>
+![Basic_Gates_Layout](./images/im1.png)<br>
 <br>
-![Basic_Gates_Layout](./images/im4)<br>
+![Basic_Gates_Layout](./images/im4.png)<br>
 ***
