@@ -3,7 +3,7 @@ Baisc Gates Layout using Electric VLSI and LT-Spice. This is my learning reposit
 
 #VLSI #Electric #LT-Spice #Layout 
 ***
-In this Repository I've posted the layout of basic gates
+In this Repository I've posted the layout of basic gates<br>
 **1)NOT<br>
 2)AND<br>
 3)NAND<br>
