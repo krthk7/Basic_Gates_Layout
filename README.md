@@ -21,5 +21,5 @@ Will keep updating the repository.<br>
 <br>
 ![Basic_Gates_Layout](./images/im3.png)<br>
 <br>
-![Basic_Gates_Layout](./images/im4.png)<br>
+![Basic_Gates_Layout](./images/im1.png)<br>
 ***
